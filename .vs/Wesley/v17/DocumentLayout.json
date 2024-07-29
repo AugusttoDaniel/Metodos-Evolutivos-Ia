@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Wesley\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|c:\\users\\dell\\source\\repos\\wesley\\wesley\\individuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\individuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|C:\\Users\\Dell\\source\\repos\\Wesley\\wesley\\populacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\populacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|c:\\users\\dell\\source\\repos\\wesley\\wesley\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|c:\\users\\dell\\source\\repos\\wesley\\wesley\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|c:\\users\\dell\\source\\repos\\wesley\\wesley\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|c:\\users\\dell\\source\\repos\\wesley\\wesley\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|c:\\users\\dell\\source\\repos\\wesley\\wesley\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|c:\\users\\dell\\source\\repos\\wesley\\wesley\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|C:\\Users\\Dell\\source\\repos\\Wesley\\wesley\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|C:\\Users\\Dell\\source\\repos\\Wesley\\wesley\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|C:\\Users\\Dell\\source\\repos\\Wesley\\wesley\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005E059E-D935-4AD4-B29D-53392C1C7F9E}|Wesley\\Wesley.csproj|solutionrelative:wesley\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form3.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form3.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form3.cs",
+              "RelativeToolTip": "Wesley\\Form3.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:48:44.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form4.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form4.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form4.cs",
+              "RelativeToolTip": "Wesley\\Form4.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAvwGgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:12:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form1.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form1.cs",
+              "RelativeToolTip": "Wesley\\Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:44:42.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form2.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form2.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form2.cs",
+              "RelativeToolTip": "Wesley\\Form2.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswFcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:55:01.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Individuo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Individuo.cs",
+              "RelativeDocumentMoniker": "Wesley\\Individuo.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Individuo.cs",
+              "RelativeToolTip": "Wesley\\Individuo.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAswPoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:42:47.576Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Populacao.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Populacao.cs",
+              "RelativeDocumentMoniker": "Wesley\\Populacao.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Populacao.cs",
+              "RelativeToolTip": "Wesley\\Populacao.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAcwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:36:15.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form2.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form2.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form2.cs [Design]",
+              "RelativeToolTip": "Wesley\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:09:27.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form1.Designer.cs",
+              "RelativeToolTip": "Wesley\\Form1.Designer.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAvwAgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:03:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form1.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form1.cs [Design]",
+              "RelativeToolTip": "Wesley\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:03:38.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form3.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form3.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form3.cs [Design]",
+              "RelativeToolTip": "Wesley\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:05:19.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form4.cs",
+              "RelativeDocumentMoniker": "Wesley\\Form4.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Wesley\\Wesley\\Form4.cs [Design]",
+              "RelativeToolTip": "Wesley\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:03:36.619Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

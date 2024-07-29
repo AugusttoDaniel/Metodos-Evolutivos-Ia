@@ -1,0 +1,900 @@
+Bit Array: 0 0 1 0 0 1 0 1 1 1
+Fenotipo: 151
+Valor de X: 0,885630498533724
+Adaptabilidade: 2,35618888726447
+
+Bit Array: 1 0 1 1 1 0 1 1 1 1
+Fenotipo: 751
+Valor de X: 4,40469208211144
+Adaptabilidade: 3,377851927658
+
+Bit Array: 0 1 1 1 1 1 0 0 1 0
+Fenotipo: 498
+Valor de X: 2,9208211143695
+Adaptabilidade: -0,0729095897008119
+
+Bit Array: 0 1 0 0 0 0 0 0 1 0
+Fenotipo: 258
+Valor de X: 1,51319648093842
+Adaptabilidade: 0,723781185232325
+
+Bit Array: 1 1 1 1 1 0 1 1 1 0
+Fenotipo: 1006
+Valor de X: 5,90029325513196
+Adaptabilidade: 11,3119942208959
+
+Bit Array: 1 0 1 1 0 0 1 0 1 0
+Fenotipo: 714
+Valor de X: 4,18768328445748
+Adaptabilidade: 2,59827486863718
+
+Bit Array: 1 1 0 1 1 1 0 1 1 0
+Fenotipo: 886
+Valor de X: 5,19648093841642
+Adaptabilidade: 7,02100945124311
+
+Bit Array: 1 0 1 0 0 0 0 1 1 1
+Fenotipo: 647
+Valor de X: 3,79472140762463
+Adaptabilidade: 1,42630352336151
+
+Bit Array: 1 1 0 0 0 0 0 1 1 0
+Fenotipo: 774
+Valor de X: 4,53958944281525
+Adaptabilidade: 3,90992509524342
+
+Bit Array: 1 0 1 1 1 1 1 0 0 0
+Fenotipo: 760
+Valor de X: 4,4574780058651
+Adaptabilidade: 3,58172014344562
+
+Bit Array: 0 0 1 0 0 1 1 0 0 1
+Fenotipo: 153
+Valor de X: 0,897360703812317
+Adaptabilidade: 2,31845271368495
+
+Bit Array: 0 1 0 1 1 1 1 1 0 1
+Fenotipo: 381
+Valor de X: 2,23460410557185
+Adaptabilidade: -0,179565019220681
+
+Bit Array: 1 0 1 0 1 1 0 1 1 0
+Fenotipo: 694
+Valor de X: 4,07038123167155
+Adaptabilidade: 2,21609721278627
+
+Bit Array: 1 1 1 1 1 0 1 1 0 1
+Fenotipo: 1005
+Valor de X: 5,89442815249267
+Adaptabilidade: 11,2721424824348
+
+Bit Array: 0 1 0 0 1 1 0 0 0 1
+Fenotipo: 305
+Valor de X: 1,78885630498534
+Adaptabilidade: 0,255725354959107
+
+Bit Array: 0 1 0 0 0 1 1 1 1 1
+Fenotipo: 287
+Valor de X: 1,68328445747801
+Adaptabilidade: 0,417024277396995
+
+Bit Array: 0 1 1 0 1 0 0 1 0 0
+Fenotipo: 420
+Valor de X: 2,4633431085044
+Adaptabilidade: -0,24865627230588
+
+Bit Array: 0 1 0 0 0 0 1 1 1 1
+Fenotipo: 271
+Valor de X: 1,58944281524927
+Adaptabilidade: 0,579114386701181
+
+Bit Array: 1 0 1 1 0 1 1 0 0 1
+Fenotipo: 729
+Valor de X: 4,27565982404692
+Adaptabilidade: 2,90296781073434
+
+Bit Array: 1 0 0 1 1 1 0 0 0 1
+Fenotipo: 625
+Valor de X: 3,66568914956012
+Adaptabilidade: 1,10883119340219
+
+Bit Array: 1 0 1 1 1 0 0 1 0 0
+Fenotipo: 740
+Valor de X: 4,34017595307918
+Adaptabilidade: 3,13624753829086
+
+Bit Array: 0 0 1 0 1 1 1 1 1 1
+Fenotipo: 191
+Valor de X: 1,12023460410557
+Adaptabilidade: 1,65375254770771
+
+Bit Array: 0 0 0 0 0 1 1 1 1 1
+Fenotipo: 31
+Valor de X: 0,181818181818182
+Adaptabilidade: 5,12396694214876
+
+Bit Array: 1 0 0 1 0 0 0 1 0 0
+Fenotipo: 580
+Valor de X: 3,40175953079179
+Adaptabilidade: 0,563170251373828
+
+Bit Array: 0 0 1 0 1 1 0 1 1 1
+Fenotipo: 183
+Valor de X: 1,0733137829912
+Adaptabilidade: 1,78543356180287
+
+Bit Array: 1 0 1 0 0 1 0 0 1 1
+Fenotipo: 659
+Valor de X: 3,86510263929619
+Adaptabilidade: 1,61350521581342
+
+Bit Array: 1 1 1 1 0 1 1 0 1 1
+Fenotipo: 987
+Valor de X: 5,78885630498534
+Adaptabilidade: 10,5665757948418
+
+Bit Array: 0 0 0 1 0 0 0 0 1 1
+Fenotipo: 67
+Valor de X: 0,392961876832845
+Adaptabilidade: 4,18960965247977
+
+Bit Array: 1 1 0 0 1 0 1 1 1 1
+Fenotipo: 815
+Valor de X: 4,78005865102639
+Adaptabilidade: 4,94866745212029
+
+Bit Array: 0 1 0 0 1 1 1 0 1 1
+Fenotipo: 315
+Valor de X: 1,8475073313783
+Adaptabilidade: 0,175746682605069
+
+Bit Array: 1 0 0 1 0 1 0 1 0 0
+Fenotipo: 596
+Valor de X: 3,49560117302053
+Adaptabilidade: 0,741221695719853
+
+Bit Array: 0 1 1 1 0 1 0 1 1 1
+Fenotipo: 471
+Valor de X: 2,7624633431085
+Adaptabilidade: -0,181112993524307
+
+Bit Array: 0 1 0 0 1 0 1 1 0 0
+Fenotipo: 300
+Valor de X: 1,75953079178886
+Adaptabilidade: 0,298294648308838
+
+Bit Array: 0 1 0 0 1 0 1 0 1 0
+Fenotipo: 298
+Valor de X: 1,74780058651026
+Adaptabilidade: 0,315803957654303
+
+Bit Array: 0 1 1 1 0 0 0 0 0 1
+Fenotipo: 449
+Valor de X: 2,63343108504399
+Adaptabilidade: -0,232196145543983
+
+Bit Array: 1 0 1 1 1 0 0 1 0 0
+Fenotipo: 740
+Valor de X: 4,34017595307918
+Adaptabilidade: 3,13624753829086
+
+Bit Array: 0 0 1 1 1 1 0 0 0 0
+Fenotipo: 240
+Valor de X: 1,40762463343109
+Adaptabilidade: 0,943283941486571
+
+Bit Array: 0 0 1 0 0 0 0 1 0 1
+Fenotipo: 133
+Valor de X: 0,780058651026393
+Adaptabilidade: 2,70819824390915
+
+Bit Array: 0 0 1 0 1 0 1 1 1 1
+Fenotipo: 175
+Valor de X: 1,02639296187683
+Adaptabilidade: 1,92151770280613
+
+Bit Array: 0 1 0 1 0 0 0 0 1 0
+Fenotipo: 322
+Valor de X: 1,88856304985337
+Adaptabilidade: 0,123855144004609
+
+Bit Array: 1 0 0 1 1 1 0 0 0 0
+Fenotipo: 624
+Valor de X: 3,65982404692082
+Adaptabilidade: 1,09519181981579
+
+Bit Array: 0 0 1 1 1 1 0 0 1 1
+Fenotipo: 243
+Valor de X: 1,42521994134897
+Adaptabilidade: 0,905152174473903
+
+Bit Array: 1 1 1 1 1 1 1 0 0 0
+Fenotipo: 1016
+Valor de X: 5,95894428152493
+Adaptabilidade: 11,714295542694
+
+Bit Array: 1 1 1 1 1 0 1 1 1 0
+Fenotipo: 1006
+Valor de X: 5,90029325513196
+Adaptabilidade: 11,3119942208959
+
+Bit Array: 1 0 0 0 0 1 1 1 1 0
+Fenotipo: 542
+Valor de X: 3,17888563049853
+Adaptabilidade: 0,210885699297391
+
+Bit Array: 0 1 1 0 0 1 0 1 0 0
+Fenotipo: 404
+Valor de X: 2,36950146627566
+Adaptabilidade: -0,232970132695797
+
+Bit Array: 1 0 1 0 0 0 1 0 1 1
+Fenotipo: 651
+Valor de X: 3,81818181818182
+Adaptabilidade: 1,48760330578512
+
+Bit Array: 0 0 0 0 1 1 1 1 0 0
+Fenotipo: 60
+Valor de X: 0,351906158357771
+Adaptabilidade: 4,36430715250127
+
+Bit Array: 1 0 0 0 0 0 0 0 0 0
+Fenotipo: 512
+Valor de X: 3,00293255131965
+Adaptabilidade: 0,00294115117688953
+
+Bit Array: 1 0 1 1 1 1 0 0 1 0
+Fenotipo: 754
+Valor de X: 4,42228739002933
+Adaptabilidade: 3,44518880986575
+
+Bit Array: 1 0 1 1 0 1 1 1 1 1
+Fenotipo: 735
+Valor de X: 4,3108504398827
+Adaptabilidade: 3,02917931562336
+
+Bit Array: 1 1 1 1 0 0 1 1 1 0
+Fenotipo: 974
+Valor de X: 5,71260997067449
+Adaptabilidade: 10,0708628236771
+
+Bit Array: 0 1 0 0 0 1 0 1 0 0
+Fenotipo: 276
+Valor de X: 1,61876832844575
+Adaptabilidade: 0,526569258950301
+
+Bit Array: 0 1 1 1 0 0 0 1 0 0
+Fenotipo: 452
+Valor de X: 2,65102639296188
+Adaptabilidade: -0,227191028628924
+
+Bit Array: 1 0 0 0 0 0 0 1 1 0
+Fenotipo: 518
+Valor de X: 3,03812316715543
+Adaptabilidade: 0,0395765430293853
+
+Bit Array: 1 1 0 0 1 0 0 1 1 0
+Fenotipo: 806
+Valor de X: 4,72727272727273
+Adaptabilidade: 4,71074380165289
+
+Bit Array: 0 0 0 0 1 0 1 1 1 1
+Fenotipo: 47
+Valor de X: 0,275659824046921
+Adaptabilidade: 4,69768921835898
+
+Bit Array: 0 0 1 0 1 1 0 0 0 0
+Fenotipo: 176
+Valor de X: 1,03225806451613
+Adaptabilidade: 1,90426638917794
+
+Bit Array: 1 0 1 0 1 0 1 1 0 0
+Fenotipo: 684
+Valor de X: 4,01173020527859
+Adaptabilidade: 2,03532821355165
+
+Bit Array: 0 1 1 0 0 1 0 1 0 0
+Fenotipo: 404
+Valor de X: 2,36950146627566
+Adaptabilidade: -0,232970132695797
+
+Bit Array: 0 1 0 1 0 0 0 1 0 0
+Fenotipo: 324
+Valor de X: 1,90029325513196
+Adaptabilidade: 0,109648179840215
+
+Bit Array: 1 0 1 1 0 0 0 0 1 1
+Fenotipo: 707
+Valor de X: 4,1466275659824
+Adaptabilidade: 2,46138234105313
+
+Bit Array: 1 0 1 0 1 1 0 1 0 0
+Fenotipo: 692
+Valor de X: 4,05865102639296
+Adaptabilidade: 2,17939302207583
+
+Bit Array: 1 0 1 1 1 0 1 0 1 0
+Fenotipo: 746
+Valor de X: 4,37536656891496
+Adaptabilidade: 3,26699976780385
+
+Bit Array: 0 0 0 1 1 0 0 0 1 1
+Fenotipo: 99
+Valor de X: 0,580645161290323
+Adaptabilidade: 3,43392299687825
+
+Bit Array: 0 0 0 1 1 1 1 1 0 0
+Fenotipo: 124
+Valor de X: 0,727272727272727
+Adaptabilidade: 2,89256198347107
+
+Bit Array: 0 1 0 0 1 0 0 1 1 0
+Fenotipo: 294
+Valor de X: 1,72434017595308
+Adaptabilidade: 0,3516481626405
+
+Bit Array: 0 0 0 1 1 1 0 1 1 0
+Fenotipo: 118
+Valor de X: 0,69208211143695
+Adaptabilidade: 3,01856709178628
+
+Bit Array: 1 0 0 1 1 1 0 1 0 1
+Fenotipo: 629
+Valor de X: 3,6891495601173
+Adaptabilidade: 1,16407667632718
+
+Bit Array: 0 0 1 1 1 0 1 0 0 0
+Fenotipo: 232
+Valor de X: 1,36070381231672
+Adaptabilidade: 1,04799580326967
+
+Bit Array: 1 0 1 0 1 0 1 0 0 0
+Fenotipo: 680
+Valor de X: 3,98826979472141
+Adaptabilidade: 1,9649469818801
+
+Bit Array: 1 0 0 1 1 0 1 1 0 1
+Fenotipo: 621
+Valor de X: 3,64222873900293
+Adaptabilidade: 1,05468649220423
+
+Bit Array: 0 1 0 1 0 0 0 1 1 0
+Fenotipo: 326
+Valor de X: 1,91202346041056
+Adaptabilidade: 0,0957164111075755
+
+Bit Array: 1 0 0 1 1 0 0 1 1 1
+Fenotipo: 615
+Valor de X: 3,60703812316716
+Adaptabilidade: 0,975533406145457
+
+Bit Array: 1 0 1 0 0 0 1 1 1 1
+Fenotipo: 655
+Valor de X: 3,841642228739
+Adaptabilidade: 1,55000386993576
+
+Bit Array: 1 0 1 0 0 0 1 1 1 1
+Fenotipo: 655
+Valor de X: 3,841642228739
+Adaptabilidade: 1,55000386993576
+
+Bit Array: 0 0 0 0 0 0 1 0 0 1
+Fenotipo: 9
+Valor de X: 0,0527859237536657
+Adaptabilidade: 5,7388567349782
+
+Bit Array: 1 1 1 0 0 1 1 0 1 0
+Fenotipo: 922
+Valor de X: 5,40762463343108
+Adaptabilidade: 8,20428100893525
+
+Bit Array: 0 0 0 0 0 0 0 1 1 0
+Fenotipo: 6
+Valor de X: 0,0351906158357771
+Adaptabilidade: 5,82528530026402
+
+Bit Array: 0 1 0 0 0 1 0 0 1 1
+Fenotipo: 275
+Valor de X: 1,61290322580645
+Adaptabilidade: 0,536940686784599
+
+Bit Array: 0 1 1 0 0 0 1 0 0 0
+Fenotipo: 392
+Valor de X: 2,29912023460411
+Adaptabilidade: -0,20964731985449
+
+Bit Array: 0 1 0 1 0 1 0 0 1 0
+Fenotipo: 338
+Valor de X: 1,98240469208211
+Adaptabilidade: 0,0179049027786138
+
+Bit Array: 0 1 1 1 0 1 1 1 0 1
+Fenotipo: 477
+Valor de X: 2,79765395894428
+Adaptabilidade: -0,161402120724795
+
+Bit Array: 1 0 0 1 1 1 1 1 1 0
+Fenotipo: 638
+Valor de X: 3,74193548387097
+Adaptabilidade: 1,29240374609781
+
+Bit Array: 1 1 1 0 0 1 1 0 1 1
+Fenotipo: 923
+Valor de X: 5,41348973607038
+Adaptabilidade: 8,23842244218746
+
+Bit Array: 0 1 1 1 1 1 1 1 1 0
+Fenotipo: 510
+Valor de X: 2,99120234604106
+Adaptabilidade: -0,00872025524376419
+
+Bit Array: 1 1 0 1 0 0 0 1 0 1
+Fenotipo: 837
+Valor de X: 4,90909090909091
+Adaptabilidade: 5,55371900826446
+
+Bit Array: 0 0 0 1 0 0 1 0 1 0
+Fenotipo: 74
+Valor de X: 0,434017595307918
+Adaptabilidade: 4,01828329649728
+
+Bit Array: 0 0 1 0 0 1 1 1 1 1
+Fenotipo: 159
+Valor de X: 0,932551319648094
+Adaptabilidade: 2,20689536553693
+
+Bit Array: 1 1 1 1 0 1 0 0 0 0
+Fenotipo: 976
+Valor de X: 5,72434017595308
+Adaptabilidade: 10,1463695702651
+
+Bit Array: 1 0 0 1 0 0 1 1 1 0
+Fenotipo: 590
+Valor de X: 3,46041055718475
+Adaptabilidade: 0,672388438351923
+
+Bit Array: 1 1 0 1 1 1 0 1 0 1
+Fenotipo: 885
+Valor de X: 5,19061583577713
+Adaptabilidade: 6,98941357573464
+
+Bit Array: 0 0 1 0 0 1 0 0 0 0
+Fenotipo: 144
+Valor de X: 0,844574780058651
+Adaptabilidade: 2,49043265881786
+
+Bit Array: 1 1 0 0 0 0 1 0 0 1
+Fenotipo: 777
+Valor de X: 4,55718475073314
+Adaptabilidade: 3,98200909864896
+
+Bit Array: 0 0 0 0 0 1 0 0 1 1
+Fenotipo: 19
+Valor de X: 0,111436950146628
+Adaptabilidade: 5,45523344312484
+
+Bit Array: 1 0 1 0 1 0 0 0 0 0
+Fenotipo: 672
+Valor de X: 3,94134897360704
+Adaptabilidade: 1,82748686371806
+
+Bit Array: 0 0 0 0 1 1 0 1 0 1
+Fenotipo: 53
+Valor de X: 0,310850439882698
+Adaptabilidade: 4,54237579656178
+
+Bit Array: 1 1 1 1 1 1 0 0 0 0
+Fenotipo: 1008
+Valor de X: 5,91202346041056
+Adaptabilidade: 11,391904094392
+
+Bit Array: 1 1 1 1 0 1 0 1 0 0
+Fenotipo: 980
+Valor de X: 5,74780058651026
+Adaptabilidade: 10,2982086497364
+
+Bit Array: 0 0 1 1 1 1 0 0 1 0
+Fenotipo: 242
+Valor de X: 1,41935483870968
+Adaptabilidade: 0,917793964620187
+
+Bit Array: 0 1 1 0 1 0 1 1 1 0
+Fenotipo: 430
+Valor de X: 2,52199413489736
+Adaptabilidade: -0,249516258030116
+
+Bit Array: 0 1 0 0 0 0 0 1 0 1
+Fenotipo: 261
+Valor de X: 1,5307917888563
+Adaptabilidade: 0,689364556548361
+
+Bit Array: 0 1 0 0 1 0 1 0 1 0
+Fenotipo: 298
+Valor de X: 1,74780058651026
+Adaptabilidade: 0,315803957654303
+
+Bit Array: 0 1 1 1 1 1 0 0 1 0
+Fenotipo: 498
+Valor de X: 2,9208211143695
+Adaptabilidade: -0,0729095897008119
+
+Bit Array: 0 1 1 0 0 0 0 1 0 0
+Fenotipo: 388
+Valor de X: 2,27565982404692
+Adaptabilidade: -0,199671485453341
+
+Bit Array: 0 1 0 0 1 1 0 0 1 1
+Fenotipo: 307
+Valor de X: 1,80058651026393
+Adaptabilidade: 0,239179229624788
+
+Bit Array: 0 1 0 0 0 1 1 0 1 1
+Fenotipo: 283
+Valor de X: 1,65982404692082
+Adaptabilidade: 0,455895632132506
+
+Bit Array: 0 0 1 0 1 1 0 0 0 1
+Fenotipo: 177
+Valor de X: 1,03812316715543
+Adaptabilidade: 1,88708387440768
+
+Bit Array: 0 1 0 0 0 1 0 0 1 1
+Fenotipo: 275
+Valor de X: 1,61290322580645
+Adaptabilidade: 0,536940686784599
+
+Bit Array: 0 1 0 1 1 1 0 0 1 0
+Fenotipo: 370
+Valor de X: 2,17008797653959
+Adaptabilidade: -0,141158056776257
+
+Bit Array: 0 1 1 0 1 0 0 0 0 1
+Fenotipo: 417
+Valor de X: 2,44574780058651
+Adaptabilidade: -0,247056698858798
+
+Bit Array: 0 1 1 1 0 0 0 1 0 0
+Fenotipo: 452
+Valor de X: 2,65102639296188
+Adaptabilidade: -0,227191028628924
+
+Bit Array: 0 0 0 1 0 1 0 0 1 0
+Fenotipo: 82
+Valor de X: 0,480938416422287
+Adaptabilidade: 3,82660967827934
+
+Bit Array: 1 1 0 1 1 1 1 1 1 0
+Fenotipo: 894
+Valor de X: 5,24340175953079
+Adaptabilidade: 7,27625321419664
+
+Bit Array: 1 0 0 0 0 0 0 0 0 0
+Fenotipo: 512
+Valor de X: 3,00293255131965
+Adaptabilidade: 0,00294115117688953
+
+Bit Array: 1 0 0 1 1 1 0 1 0 1
+Fenotipo: 629
+Valor de X: 3,6891495601173
+Adaptabilidade: 1,16407667632718
+
+Bit Array: 0 0 1 0 0 1 0 0 1 1
+Fenotipo: 147
+Valor de X: 0,86217008797654
+Adaptabilidade: 2,43248682071878
+
+Bit Array: 0 1 0 0 1 1 0 1 0 1
+Fenotipo: 309
+Valor de X: 1,81231671554252
+Adaptabilidade: 0,222908299722224
+
+Bit Array: 0 1 1 1 1 1 1 1 0 0
+Fenotipo: 508
+Valor de X: 2,97947214076246
+Adaptabilidade: -0,0201064662326615
+
+Bit Array: 0 1 1 1 0 0 0 1 1 0
+Fenotipo: 454
+Valor de X: 2,66275659824047
+Adaptabilidade: -0,22351028972919
+
+Bit Array: 0 1 1 0 1 0 1 1 0 1
+Fenotipo: 429
+Valor de X: 2,51612903225806
+Adaptabilidade: -0,249739854318418
+
+Bit Array: 1 0 1 0 1 0 0 0 0 0
+Fenotipo: 672
+Valor de X: 3,94134897360704
+Adaptabilidade: 1,82748686371806
+
+Bit Array: 1 0 0 0 0 1 1 0 1 1
+Fenotipo: 539
+Valor de X: 3,16129032258065
+Adaptabilidade: 0,187304890738815
+
+Bit Array: 1 0 1 0 0 0 1 1 1 0
+Fenotipo: 654
+Valor de X: 3,83577712609971
+Adaptabilidade: 1,53430053061119
+
+Bit Array: 1 0 0 1 1 1 0 0 1 1
+Fenotipo: 627
+Valor de X: 3,67741935483871
+Adaptabilidade: 1,1363163371488
+
+Bit Array: 0 1 0 0 1 1 0 1 0 1
+Fenotipo: 309
+Valor de X: 1,81231671554252
+Adaptabilidade: 0,222908299722224
+
+Bit Array: 0 1 0 0 1 1 1 1 0 0
+Fenotipo: 316
+Valor de X: 1,8533724340176
+Adaptabilidade: 0,168127209088329
+
+Bit Array: 0 1 0 1 1 0 1 0 1 1
+Fenotipo: 363
+Valor de X: 2,12903225806452
+Adaptabilidade: -0,112382934443288
+
+Bit Array: 0 1 0 1 0 1 0 0 1 0
+Fenotipo: 338
+Valor de X: 1,98240469208211
+Adaptabilidade: 0,0179049027786138
+
+Bit Array: 0 1 0 0 1 0 0 1 1 0
+Fenotipo: 294
+Valor de X: 1,72434017595308
+Adaptabilidade: 0,3516481626405
+
+Bit Array: 0 1 0 0 1 1 0 0 1 0
+Fenotipo: 306
+Valor de X: 1,79472140762463
+Adaptabilidade: 0,247417892862978
+
+Bit Array: 0 1 1 1 1 0 1 1 0 0
+Fenotipo: 492
+Valor de X: 2,88563049853372
+Adaptabilidade: -0,101289118600633
+
+Bit Array: 0 1 1 1 1 0 0 1 0 0
+Fenotipo: 484
+Valor de X: 2,83870967741936
+Adaptabilidade: -0,135275754422477
+
+Bit Array: 1 0 1 0 0 1 0 1 0 0
+Fenotipo: 660
+Valor de X: 3,87096774193548
+Adaptabilidade: 1,62955254942768
+
+Bit Array: 1 0 0 0 1 0 0 0 0 0
+Fenotipo: 544
+Valor de X: 3,19061583577713
+Adaptabilidade: 0,226950232626137
+
+Bit Array: 1 0 1 0 0 1 1 0 1 1
+Fenotipo: 667
+Valor de X: 3,91202346041056
+Adaptabilidade: 1,7438102527498
+
+Bit Array: 0 1 1 1 1 1 1 1 0 0
+Fenotipo: 508
+Valor de X: 2,97947214076246
+Adaptabilidade: -0,0201064662326615
+
+Bit Array: 0 1 1 0 1 0 1 1 1 0
+Fenotipo: 430
+Valor de X: 2,52199413489736
+Adaptabilidade: -0,249516258030116
+
+Bit Array: 0 1 1 1 1 1 1 0 1 0
+Fenotipo: 506
+Valor de X: 2,96774193548387
+Adaptabilidade: -0,0312174817898025
+
+Bit Array: 0 1 1 0 0 0 0 0 0 0
+Fenotipo: 384
+Valor de X: 2,25219941348974
+Adaptabilidade: -0,188594869325169
+
+Bit Array: 0 1 1 0 0 0 0 1 0 0
+Fenotipo: 388
+Valor de X: 2,27565982404692
+Adaptabilidade: -0,199671485453341
+
+Bit Array: 0 1 0 0 1 1 1 1 0 0
+Fenotipo: 316
+Valor de X: 1,8533724340176
+Adaptabilidade: 0,168127209088329
+
+Bit Array: 1 0 0 1 1 0 1 0 1 1
+Fenotipo: 619
+Valor de X: 3,63049853372434
+Adaptabilidade: 1,02802693475288
+
+Bit Array: 0 1 1 0 0 1 0 1 0 0
+Fenotipo: 404
+Valor de X: 2,36950146627566
+Adaptabilidade: -0,232970132695797
+
+Bit Array: 0 1 1 0 1 0 0 0 0 1
+Fenotipo: 417
+Valor de X: 2,44574780058651
+Adaptabilidade: -0,247056698858798
+
+Bit Array: 1 0 0 1 1 0 1 0 1 1
+Fenotipo: 619
+Valor de X: 3,63049853372434
+Adaptabilidade: 1,02802693475288
+
+Bit Array: 0 1 0 1 0 0 1 0 0 0
+Fenotipo: 328
+Valor de X: 1,92375366568915
+Adaptabilidade: 0,0820598378066921
+
+Bit Array: 0 1 1 0 1 1 1 1 0 1
+Fenotipo: 445
+Valor de X: 2,6099706744868
+Adaptabilidade: -0,237906450752917
+
+Bit Array: 0 1 1 1 1 1 1 1 1 0
+Fenotipo: 510
+Valor de X: 2,99120234604106
+Adaptabilidade: -0,00872025524376419
+
+Bit Array: 0 1 0 0 1 0 0 0 1 0
+Fenotipo: 290
+Valor de X: 1,70087976539589
+Adaptabilidade: 0,38859314935372
+
+Bit Array: 0 1 1 0 1 1 1 0 1 1
+Fenotipo: 443
+Valor de X: 2,59824046920821
+Adaptabilidade: -0,24034881020975
+
+Bit Array: 1 0 0 0 0 0 0 1 1 1
+Fenotipo: 519
+Valor de X: 3,04398826979472
+Adaptabilidade: 0,0459232376742555
+
+Bit Array: 1 0 0 1 1 0 0 1 0 1
+Fenotipo: 613
+Valor de X: 3,59530791788856
+Adaptabilidade: 0,949699434989382
+
+Bit Array: 1 0 0 0 0 0 1 1 1 0
+Fenotipo: 526
+Valor de X: 3,08504398826979
+Adaptabilidade: 0,0922764682106259
+
+Bit Array: 0 1 1 0 0 0 0 1 1 1
+Fenotipo: 391
+Valor de X: 2,29325513196481
+Adaptabilidade: -0,207256559541111
+
+Bit Array: 1 0 0 0 1 0 0 0 0 0
+Fenotipo: 544
+Valor de X: 3,19061583577713
+Adaptabilidade: 0,226950232626137
+
+Bit Array: 0 1 0 0 1 1 0 1 1 1
+Fenotipo: 311
+Valor de X: 1,82404692082111
+Adaptabilidade: 0,206912565251417
+
+Bit Array: 0 0 1 0 0 1 0 0 1 1
+Fenotipo: 147
+Valor de X: 0,86217008797654
+Adaptabilidade: 2,43248682071878
+
+Bit Array: 0 1 0 0 0 1 0 1 0 0
+Fenotipo: 276
+Valor de X: 1,61876832844575
+Adaptabilidade: 0,526569258950301
+
+Bit Array: 0 1 1 1 0 1 0 1 1 1
+Fenotipo: 471
+Valor de X: 2,7624633431085
+Adaptabilidade: -0,181112993524307
+
+Bit Array: 0 1 1 1 0 0 0 0 0 1
+Fenotipo: 449
+Valor de X: 2,63343108504399
+Adaptabilidade: -0,232196145543983
+
+Bit Array: 0 1 1 0 1 0 0 1 0 0
+Fenotipo: 420
+Valor de X: 2,4633431085044
+Adaptabilidade: -0,24865627230588
+
+Bit Array: 0 0 1 1 1 1 0 1 1 0
+Fenotipo: 246
+Valor de X: 1,44281524926686
+Adaptabilidade: 0,867639597182686
+
+Bit Array: 1 0 0 1 1 0 0 0 1 1
+Fenotipo: 611
+Valor de X: 3,58357771260997
+Adaptabilidade: 0,924140659265055
+
+Bit Array: 0 0 1 1 1 1 1 1 0 0
+Fenotipo: 252
+Valor de X: 1,47800586510264
+Adaptabilidade: 0,794472011764604
+
+Bit Array: 0 1 1 1 1 1 0 1 1 0
+Fenotipo: 502
+Valor de X: 2,94428152492669
+Adaptabilidade: -0,052613926608819
+
+Bit Array: 0 1 1 0 0 0 0 1 0 0
+Fenotipo: 388
+Valor de X: 2,27565982404692
+Adaptabilidade: -0,199671485453341
+
+Bit Array: 0 1 0 0 1 0 0 1 1 0
+Fenotipo: 294
+Valor de X: 1,72434017595308
+Adaptabilidade: 0,3516481626405
+
+Bit Array: 0 1 1 0 0 1 1 1 1 1
+Fenotipo: 415
+Valor de X: 2,43401759530792
+Adaptabilidade: -0,245646322271051
+
+Bit Array: 0 0 1 1 1 0 0 1 0 0
+Fenotipo: 228
+Valor de X: 1,33724340175953
+Adaptabilidade: 1,10200290675175
+
+Bit Array: 0 0 1 1 0 1 0 0 1 0
+Fenotipo: 210
+Valor de X: 1,2316715542522
+Adaptabilidade: 1,35865704629303
+
+Bit Array: 0 1 1 1 1 0 0 0 0 1
+Fenotipo: 481
+Valor de X: 2,82111436950147
+Adaptabilidade: -0,146885561699674
+
+Bit Array: 0 1 1 1 1 0 0 0 0 1
+Fenotipo: 481
+Valor de X: 2,82111436950147
+Adaptabilidade: -0,146885561699674
+
+Bit Array: 0 1 1 1 0 0 0 0 0 1
+Fenotipo: 449
+Valor de X: 2,63343108504399
+Adaptabilidade: -0,232196145543983
+
+Bit Array: 0 1 0 0 0 1 0 0 1 0
+Fenotipo: 274
+Valor de X: 1,60703812316716
+Adaptabilidade: 0,547380913476836
+
+Bit Array: 0 1 1 1 1 0 0 0 1 0
+Fenotipo: 482
+Valor de X: 2,82697947214076
+Adaptabilidade: -0,143084424798549
+
+Bit Array: 0 0 1 1 1 1 1 1 1 0
+Fenotipo: 254
+Valor de X: 1,48973607038123
+Adaptabilidade: 0,770633207488755
+
+Bit Array: 0 1 0 1 1 1 0 0 0 1
+Fenotipo: 369
+Valor de X: 2,16422287390029
+Adaptabilidade: -0,137253721588221
+
+Bit Array: 0 1 1 0 1 0 0 1 1 0
+Fenotipo: 422
+Valor de X: 2,47507331378299
+Adaptabilidade: -0,249378660314238
+
+Bit Array: 1 0 0 0 0 0 1 1 0 0
+Fenotipo: 524
+Valor de X: 3,0733137829912
+Adaptabilidade: 0,0786886937676829
+
